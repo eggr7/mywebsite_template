@@ -1,1 +1,0 @@
-[Fri Sep 26 01:22:36.215247 2025] [authz_core:error] [pid 9107:tid 137124263220928] [client 10.0.2.2:64542] AH01630: client denied by server configuration: /var/www/mywebsite/html/server-status, referer: http://127.0.0.1:3080/
